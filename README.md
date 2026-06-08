@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -18,4 +17,3 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # projectly-frontend
 Frontend application for Projectly - A modern project, task, and goal management platform.
->>>>>>> 0c2f6f555c8e0d22cf1c6fe90ed5382bdda61215
